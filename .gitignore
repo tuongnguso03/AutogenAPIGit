@@ -1,2 +1,5 @@
 
 /AutogenAPI
+/AutogenAPIVenv
+/__pycache__
+/chat_history

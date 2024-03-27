@@ -17,7 +17,7 @@ def initiate_agents(chat_history: list = []):
         "config_list": [
             {
                 "model": "gpt-3.5-turbo",
-                "api_key": "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"
+                "api_key": ""
             }
         ]
     }
